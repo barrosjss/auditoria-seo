@@ -4,3 +4,10 @@
 # next.js
 /.next/
 /out/
+
+# secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
