@@ -1,19 +1,24 @@
-# Auditoría SEO + GEO
+# Entregables — Ing. Jesús Barros
 
-Repositorio de auditorías, benchmarks y propuestas de optimización SEO + GEO para clientes del sector packaging B2B.
+Repositorio de demos, prototipos y documentos para clientes. Cada entregable tiene su propia URL via GitHub Pages.
 
 | | |
 |---|---|
 | **Consultor** | Ing. Jesús Barros |
-| **Metodología** | Análisis técnico manual, on-page, indexación y benchmark multi-modelo (GEO) |
+| **Contacto** | jesusr.barrosb@gmail.com |
+
+---
 
 ## Clientes
 
-| Cliente | Dominio | Documentos |
-|---------|---------|------------|
-| Aurum Intelligence | [aurumintelligence.net](https://www.aurumintelligence.net/) | [README](./clientes/aurum-intelligence/README.md) |
-| Packway (Pre-Sales Suite) | [packway.us](https://packway.us/) | [README](./clientes/packway/README.md) |
+| Cliente | Servicio | Entregable | Link |
+|---------|----------|------------|------|
+| Aurum Intelligence | SEO + GEO | Auditoría | [README](./clientes/aurum-intelligence/README.md) |
+| Packway | SEO + GEO | Auditoría + Propuesta | [README](./clientes/packway/README.md) |
+| Social Credit | Agente de Chat IA | Demo Valentina | [Ver demo](./clientes/socialcredit/chat-valentina/) |
 
-## Propuesta de servicio (ecosistema)
+---
+
+## Propuestas
 
 - [Propuesta SEO + GEO — Packway + Aurum Intelligence (jun 2026)](./propuesta-2026-06-10-seo-geo-ecosistema.md)
